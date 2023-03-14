@@ -24,6 +24,17 @@ Run the following command in the container
 chmod +x ./VivreEnsembleContainer.sh && source ./VivreEnsembleContainer.sh
 ```
 
+## *Network Access*
+
+App :
+http://localhost
+
+DB :
+http://localhost:8336
+
+Mailer :
+http://localhost:8025
+
 ## *Making changes*
 
 <ins>**1 - Update develop**</ins>
